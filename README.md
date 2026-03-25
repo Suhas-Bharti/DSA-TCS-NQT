@@ -6,6 +6,7 @@ This repository contains all the important **Data Structures and Algorithms (DSA
 
 ## 📁 Folder Structure
 
+```
 DSA-TCS-NQT/
 │── 01_Basics/
 │── 02_Patterns/
@@ -15,62 +16,70 @@ DSA-TCS-NQT/
 │── 06_Sorting/
 │── 07_Recursion/
 │── README.md
-
+```
 
 ---
 
 ## 📂 Topics Covered
 
-🔹 **Basics**  
-🔹 **Patterns**  
-🔹 **Arrays**  
-🔹 **Strings**  
-🔹 **Searching**  
-🔹 **Sorting**  
-🔹 **Recursion**
+* 🔹 Basics
+* 🔹 Patterns
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Searching
+* 🔹 Sorting
+* 🔹 Recursion
 
 ---
 
 ## 💡 Features
 
-✅ Clean and readable Java code  
-✅ Interview-oriented problems  
-✅ Time & Space Complexity included  
-✅ Beginner-friendly explanations  
+* ✅ Clean and readable Java code
+* ✅ Interview-oriented problems
+* ✅ Time & Space Complexity included
+* ✅ Beginner-friendly explanations
 
 ---
 
 ## 🎯 Goal
 
-- Crack **TCS NQT**
-- Build strong **DSA fundamentals**
-- Prepare for coding interviews
+* 🎯 Crack **TCS NQT**
+* 🎯 Build strong **DSA fundamentals**
+* 🎯 Prepare for coding interviews
 
 ---
 
 ## 🚀 How to Use
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/Suhas-Bharti/DSA-TCS-NQT.git
 ```
 
-Open in any IDE (VS Code / IntelliJ / Eclipse)
-Start practicing topic-wise
+2. Open in any IDE (VS Code / IntelliJ / Eclipse)
+3. Start practicing topic-wise
 
-📈 Progress
- Basics
- Patterns
- Arrays
- Strings
- Searching
- Sorting
- Recursion
+---
 
- 👨‍💻 Author
+## 📈 Progress
 
-Suhas Bharti
+* [ ] Basics
+* [ ] Patterns
+* [ ] Arrays
+* [ ] Strings
+* [ ] Searching
+* [ ] Sorting
+* [ ] Recursion
 
-⭐ Support
+---
 
-If you found this helpful, please ⭐ the repository!
+## 👨‍💻 Author
+
+**Suhas Bharti**
+
+---
+
+## ⭐ Support
+
+If you found this helpful, please consider giving a ⭐ to the repository!
