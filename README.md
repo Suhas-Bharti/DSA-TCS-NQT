@@ -8,15 +8,16 @@ This repository contains all the important **Data Structures and Algorithms (DSA
 
 ```
 DSA-TCS-NQT/
-│── 01_Basics/
-│── 02_Patterns/
-│── 03_Array/
-│── 04_String/
-│── 05_Searching/
-│── 06_Sorting/
-│── 07_Recursion/
-│── README.md
 ```
+
+* 📂 [01_Basics](./01_Basics)
+* 📂 [02_Patterns](./02_Patterns)
+* 📂 [03_Array](./03_Array)
+* 📂 [04_String](./04_String)
+* 📂 [05_Searching](./05_Searching)
+* 📂 [06_Sorting](./06_Sorting)
+* 📂 [07_Recursion](./07_Recursion)
+* 📄 [README.md](./README.md)
 
 ---
 
@@ -53,7 +54,7 @@ DSA-TCS-NQT/
 
 1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/Suhas-Bharti/DSA-TCS-NQT.git
 ```
 
