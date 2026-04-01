@@ -38,6 +38,7 @@ public class InvertedTrianglePattern {
 
         //Taking input from user
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number of rows for the inverted triangle:");
         int n = sc.nextInt(); // Size of triangle
 
         //Outer Loop -> controls rows

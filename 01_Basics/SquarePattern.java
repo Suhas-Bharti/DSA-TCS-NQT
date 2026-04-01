@@ -38,6 +38,7 @@ public class SquarePattern {
         
         // Taking input from user
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the size of the square pattern:");
         int n = sc.nextInt(); // Size of square
 
         // Outer loop → controls rows

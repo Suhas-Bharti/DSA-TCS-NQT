@@ -37,6 +37,7 @@ public class RightTrianglePattern {
 
         // Taking input from user
         Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number of rows for the right triangle:");
         int n = sc.nextInt(); // Size of triangle
 
         // Outer loop -> controls rows
