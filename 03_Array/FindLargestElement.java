@@ -55,7 +55,7 @@ public class FindLargestElement {
     // Method to find the largest element in the array
     public static int findLargest(int[] arr) {
 
-        int largest = arr[0]; // Initialize largest to the first element of the array
+        int largest = Integer.MIN_VALUE; // Initialize largest to minimum possible value
 
         for(int i=0; i<arr.length; i++) {
             if(arr[i] > largest) {
