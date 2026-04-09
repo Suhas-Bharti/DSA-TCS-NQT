@@ -58,6 +58,8 @@ public class ReverseArray {
             System.out.print(arr[i] + " ");
         }
 
+        sc.close(); // Closing the scanner
+
     }
 
     // Method to reverse the array
